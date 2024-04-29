@@ -4,7 +4,7 @@ const HomePage = () => (
     <>
         <h1>Hello, welcome to my blog!</h1>
         <p>
-            Welcome to my blog! Proin congue
+            1Welcome to my blog! Proin congue
             ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
             Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
             non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
