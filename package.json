@@ -2,7 +2,8 @@
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000/",
+  //"proxy": "http://localhost:8000/",
+  "homepage": "https://kym0813.github.io/blog",
   "dependencies": {
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.4.0",
@@ -37,5 +38,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://kym0813.github.io/blog"
+  "devDependencies": {
+    "eslint-plugin-jest-dom": "^4.0.3",
+    "eslint-plugin-testing-library": "^5.10.2",
+    "gh-pages": "^5.0.0"
+  }
 }
