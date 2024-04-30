@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:8000/",
-  "homepage": "https://kym0813.github.io/inflearn_react_netflix",
+  "homepage": "https://kym0813.github.io/blog",
   "dependencies": {
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.4.0",
