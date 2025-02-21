@@ -15,7 +15,7 @@ function App() {
         <NavBar />
         <div id="page-body">
           <Switch>
-            <Route path="/" exact component={HomePage} />
+            <Route path="/main" exact component={HomePage} />
             <Route path="/about" component={AboutPage} />
             <Route path="/articles" exact component={ArticlesListPage} />
             <Route path="/articles/:name" component={ArticlePage} />
